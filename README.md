@@ -23,6 +23,8 @@
 </div>
 
 ## Connect with me  
+</br>
+
 <div align="center">
  <a href="mailto:kiki.ananyaluck@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -40,5 +42,12 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<br/>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-ananyaluck&layout=compact)
+
+<br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fzquwpwcufo6gkxpz3wxlea&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
