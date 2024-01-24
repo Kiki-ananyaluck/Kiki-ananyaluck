@@ -1,5 +1,5 @@
+<img src="https://img2.pic.in.th/pic/Helload35b0cc3d9296fa.png" alt="Helload35b0cc3d9296fa.png" border="0" />
 
-<img src="https://img5.pic.in.th/file/secure-sv1/Hello-1.png" alt="Hello-1.png" border="0" />
 ## My Skill Set   
 
 </br>
