@@ -51,3 +51,9 @@
 <br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fzquwpwcufo6gkxpz3wxlea&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kiki-ananyaluck&&style=flat-square" align="center" />
+</div>  
